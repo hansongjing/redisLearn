@@ -89,6 +89,8 @@ public class Example1 {
 
        System.out.println("排序后"+jedis.sort("nanjing"));
 
+        //Just test
+
         //lpush尾巴插入,所以输出顺序和加入顺序一致
         jedis.del("nanjing");
         jedis.rpush("nanjing","9");
