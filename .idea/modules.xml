@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redisLearn.iml" filepath="$PROJECT_DIR$/redisLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rumen/rumen.iml" filepath="$PROJECT_DIR$/rumen/rumen.iml" />
+    </modules>
+  </component>
+</project>
